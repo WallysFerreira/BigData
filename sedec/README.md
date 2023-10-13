@@ -9,5 +9,5 @@
 
 ## Análise
 - Ver quais bairros tem mais atendimentos concluídos [ ]
-- Ver a quantidade de chamados por época do ano [ ]
-- Criar graficos com matplotlib [ ]
+- Ver a quantidade de chamados por época do ano [x]
+- Criar graficos com matplotlib [x]
