@@ -8,6 +8,6 @@
 - Transformar os dados (data) [x]
 
 ## Análise
-- Ver quais bairros tem mais atendimentos concluídos [ ]
+- Ver quais bairros tem mais atendimentos concluídos [x]
 - Ver a quantidade de chamados por época do ano [x]
 - Criar graficos com matplotlib [x]
